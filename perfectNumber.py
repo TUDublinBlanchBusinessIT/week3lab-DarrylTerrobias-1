@@ -15,7 +15,7 @@ def perfectNumber(num):
     #set a result variable to False by default
     result = False
     #if the sum of all the divisors of the number is equal to the test number
-    if sum_divisors ==x:
+    if sum_divisors == x:
         #set the result variable to be True
         result = True
     #return the result variable
